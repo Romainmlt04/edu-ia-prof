@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+# Python caches
+__pycache__/
+*.pyc
+
+# Build outputs (si tu as un framework type React/Vue)
+dist/
+build/
+
+# Fichier d'environnement local
+.env
